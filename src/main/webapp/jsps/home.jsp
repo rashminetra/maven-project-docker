@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Applied AI Consulting PVT LTD </h1>
+<h1 align="center">Welcome to Applied Ai Consulting pvt ltd </h1>
 
 <hr>
 <br>
-	
+	<h1><h3> Server Side IP Address </h3><br>
 
 <% 
 String ip = "";
@@ -30,21 +30,19 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
 <hr>
 <div style="text-align: center;">
-	<span>
-		
-	</span>
+	
 	<span style="font-weight: bold;">
-		AAIC, 
-		PUNE
+		AAIC PUNE
 		<br>
-		<a href="mailto:abcd@appliedai.com">Mail to Mithun Technologies</a>
+		<a href="mailto:aaic@gmail.com">Mail to Mithun Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center> APPLIED AI CONSULTING.</p>
+
 
 </body>
 </html>
